@@ -1,5 +1,7 @@
 # To-Do-List
 
+<img src="Screenshot 2024-08-26 054121.png">
+
 This project is a dynamic and responsive to-do list application built using React, Context API, local storage, HTML, and Tailwind CSS. The application allows users to create, update, and manage their tasks with ease. State management is handled through React's Context API, providing a seamless and efficient way to manage global state across components. Local storage is utilized to persist user data, ensuring that tasks remain intact even after the browser is closed or refreshed.
 
 ### Key Features:
